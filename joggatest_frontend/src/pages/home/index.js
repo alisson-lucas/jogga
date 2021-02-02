@@ -1,7 +1,6 @@
 import React from 'react';
 import './styles.css';
 
-// import { Container } from './styles';
 import Carousel from '../../components/carousel/index';
 import Body from '../../components/body/index';
 import Servic from '../../components/servic/index';

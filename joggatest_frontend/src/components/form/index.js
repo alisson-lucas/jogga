@@ -22,7 +22,6 @@ function Form() {
       const response = await api.post('/', data);
 
       alert('cadastrado com sucesso');
-      // alert(`Seu ID de acesso: ${response.data.id}`);
 
       history.push('/');
     } catch (err) {
