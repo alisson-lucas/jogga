@@ -1,0 +1,115 @@
+.form-container {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    width: 330px;
+    height: 400px;
+    top: 100px;
+    left: 850px;
+    box-shadow: 0px 4px 8px rgba(39, 40, 51, 0.12);
+    border-radius: 4px;
+    border: 1px;
+    background-color: #f8f7f2;
+}
+
+.form-header {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 330px;
+    height: 100px;
+    background-color: #231f20;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.form-header span {
+    color: #fff;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.form-body {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+.form-body form {
+    display: flex;
+    flex-direction: column;
+}
+
+.error {
+    margin-top: 55px;
+    color: red;
+    font-size: 12px;
+}
+
+.form-body input {
+    width: 270px;
+    height: 35px;
+    margin-top: 100px;
+    background: #F0F5FF;
+    border: 1px solid #808080;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: 0px 4px;
+    padding-left: 10px;
+}
+
+#nome {
+    position: absolute;
+    margin-top: 25px;  
+}
+
+#telefone {
+    position: absolute;
+    margin-top: 160px;
+}
+
+#mail {
+    position: absolute;
+    margin-top: 80px;
+}
+
+#name {
+    position: absolute;
+    margin-top: 40px;
+}
+
+#phone {
+    position: absolute;
+    margin-top: 180px;
+}
+
+#email {
+    position: absolute;
+    margin-top: 110px;
+}
+
+.form-body span {
+    font-size: 10px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.button-submit {
+    width: 100px;
+    height: 40px;
+    background-color: #0B5FFF;
+    color: #FFF;
+    border: 1px solid #0B5FFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 230px;
+    margin-left: 175px;
+    font-weight: bold;
+    font-size: 12px;
+    position: absolute;
+
+}
