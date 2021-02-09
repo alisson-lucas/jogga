@@ -1,5 +1,3 @@
-![](jogga.png)
-
 # jogga
 Criado para teste na jogga performace digital
 
@@ -16,3 +14,5 @@ Para iniciar o projeto, faça oclone do repositório em uma pasta na sua máquin
 caso mostre que está faltando alguma biblioteca/dependencia só é necessário seguir o que ele recomendará a ser instalado, exemplo: axios, react-icons etc..
 
 caso tenha alguma duvida de como rodar o projeto, eu estarei a disposição para ajuda-lo.
+
+![](jogga.png)
